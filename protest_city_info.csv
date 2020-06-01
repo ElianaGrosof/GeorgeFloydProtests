@@ -1,0 +1,73 @@
+city_ascii,state_id,lat,lng
+Anchorage,AK,61.1508,-149.1091
+Birmingham,AL,33.5277,-86.7987
+Little Rock,AR,34.7255,-92.35799999999999
+Fayetteville,AR,36.0713,-94.166
+Phoenix,AZ,33.5722,-112.0891
+Tucson,AZ,32.1545,-110.8782
+San Jose,CA,37.3021,-121.8489
+Oakland,CA,37.7903,-122.2165
+Los Angeles,CA,34.1139,-118.4068
+San Diego,CA,32.8312,-117.1225
+San Francisco,CA,37.7562,-122.443
+Fresno,CA,36.7831,-119.7941
+Sacramento,CA,38.5667,-121.4683
+Denver,CO,39.7621,-104.8759
+Colorado Springs,CO,38.8674,-104.7606
+New Haven,CT,41.3112,-72.9246
+Bridgeport,CT,41.1918,-73.1953
+Wilmington,DE,39.7415,-75.5413
+Washington,DC,38.9047,-77.0163
+Miami,FL,25.7839,-80.2102
+Tampa,FL,27.9942,-82.4451
+Atlanta,GA,33.7627,-84.4225
+Honolulu,HI,21.3294,-157.846
+Des Moines,IA,41.5725,-93.6105
+Boise,ID,43.6007,-116.2312
+Chicago,IL,41.8373,-87.6862
+Indianapolis,IN,39.7771,-86.1458
+Wichita,KS,37.6897,-97.3441
+Louisville,KY,38.1663,-85.6485
+New Orleans,LA,30.0687,-89.9288
+Boston,MA,42.3188,-71.0846
+Baltimore,MD,39.3051,-76.6144
+Portland,ME,43.6773,-70.2715
+Detroit,MI,42.3834,-83.1024
+Minneapolis,MN,44.9635,-93.2678
+Kansas City,MO,39.1239,-94.5541
+Petal,MS,31.3477,-89.2359
+Missoula,MT,46.8685,-114.0095
+Charlotte,NC,35.2079,-80.8304
+Raleigh,NC,35.8324,-78.6438
+Fargo,ND,46.8653,-96.8292
+Omaha,NE,41.2628,-96.0498
+Manchester,NH,42.9848,-71.4447
+Newark,NJ,40.7245,-74.1725
+Albuquerque,NM,35.1053,-106.6464
+Las Vegas,NV,36.2333,-115.2654
+New York,NY,40.6943,-73.9249
+Columbus,OH,39.986,-82.9851
+Cleveland,OH,41.4767,-81.6805
+Cincinnati,OH,39.1412,-84.506
+Oklahoma City,OK,35.4676,-97.5137
+Tulsa,OK,36.1284,-95.9043
+Portland,OR,45.5371,-122.65
+Eugene,OR,44.0563,-123.1173
+Philadelphia,PA,40.0077,-75.1339
+Pittsburgh,PA,40.4396,-79.9763
+Providence,RI,41.823,-71.4187
+Charleston,SC,32.8151,-79.96300000000001
+Nashville,TN,36.1715,-86.7843
+Memphis,TN,35.1046,-89.9773
+Houston,TX,29.7869,-95.3905
+San Antonio,TX,29.4658,-98.5254
+Dallas,TX,32.7936,-96.7662
+Austin,TX,30.3006,-97.7517
+El Paso,TX,31.8479,-106.4309
+Salt Lake City,UT,40.7774,-111.93
+Richmond,VA,37.5295,-77.4756
+Burlington,VT,44.4877,-73.2314
+Seattle,WA,47.6211,-122.3244
+Milwaukee,WI,43.0642,-87.9673
+Charleston,WV,38.3484,-81.6323
+Cheyenne,WY,41.1405,-104.7927
