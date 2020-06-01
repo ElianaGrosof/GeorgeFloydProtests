@@ -37,5 +37,6 @@ fig.update_layout(
 
 #fig.show()
 
-plotly.offline.plot(fig, filename="/Users/Eliana/Documents/_csprojects/Protest_map/figure.html")
-                    #include_plotlyjs=False, output_type='div')
+var = plotly.offline.plot(fig, filename="/Users/Eliana/Documents/_csprojects/Protest_map/figure.html",
+                    include_plotlyjs=False, output_type='div')
+print(var)
