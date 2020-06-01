@@ -8,9 +8,10 @@ This program makes a map of anti-racist protests in response
 
 from https://plotly.com/python/scatter-plots-on-maps/
 '''
+import pandas as pd
 
 import plotly.graph_objects as go
-import pandas as pd
+import plotly
 
 df = pd.read_csv("data/protest_city_info.csv")
 
@@ -34,4 +35,7 @@ fig.update_layout(
         geo_scope = 'usa',
     )
 
-fig.show()
+#fig.show()
+
+plotly.offline.plot(fig, filename="/Users/Eliana/Documents/_csprojects/Protest_map/figure.html")
+                    #include_plotlyjs=False, output_type='div')
