@@ -35,8 +35,5 @@ fig.update_layout(
         geo_scope = 'usa',
     )
 
-#fig.show()
-
-var = plotly.offline.plot(fig, filename="/Users/Eliana/Documents/_csprojects/Protest_map/figure.html",
-                    include_plotlyjs=False, output_type='div')
-print(var)
+plotly.offline.plot(fig, filename="/Users/Eliana/Documents/_csprojects/Protest_map/protest_cities.html")
+                    #include_plotlyjs=False, output_type='div')
